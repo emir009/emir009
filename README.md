@@ -1,16 +1,23 @@
-## Hi there 👋
+# ¡Hola! Soy [Tu Nombre] 👋
 
-<!--
-**emir009/emir009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un **[Tu Rol, ej: Desarrollador Web / Estudiante / Entusiasta de la IA]** apasionado por crear soluciones que ayuden a los demás. 
 
-Here are some ideas to get you started:
+### 🚀 Sobre mí
+- 🔭 Actualmente estoy trabajando en: **[Nombre de tu proyecto actual]**
+- 🌱 Estoy aprendiendo: **[Tecnología o habilidad que estudias]**
+- 💬 Pregúntame sobre: **[Temas que domines, ej: React, Python, Diseño]**
+- 📫 Cómo contactarme: **[Tu email o LinkedIn]**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Mis Tecnologías
+<p align="left">
+  <img src="https://raw.githubusercontent.com" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com" alt="html5" width="40" height="40"/>
+</p>
+
+### 📊 Mis Estadísticas de GitHub
+![Estadísticas de mi GitHub](https://github-readme-stats.vercel.app[TU_USUARIO]&show_icons=true&theme=radical)
+
+---
+"El código es poesía en movimiento." 
