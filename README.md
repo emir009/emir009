@@ -1,4 +1,4 @@
-# ¡Hola! Soy [Tu Nombre] 👋
+# ¡Hola! Soy Emir  👋
 
 Soy un **[Tu Rol, ej: Desarrollador Web / Estudiante / Entusiasta de la IA]** apasionado por crear soluciones que ayuden a los demás. 
 
